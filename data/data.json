@@ -1,0 +1,1290 @@
+[
+  {
+    "qid": 1,
+    "question": "What is the formula for calculating kinetic energy?",
+    "subject": "Physics",
+    "topic": "Energy and Motion",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 2,
+    "question": "Explain the concept of torque.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 3,
+    "question": "Define Ohm's Law.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 4,
+    "question": "What is the difference between speed and velocity?",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 5,
+    "question": "Describe the photoelectric effect.",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 6,
+    "question": "What is the first law of thermodynamics?",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 7,
+    "question": "State the laws of reflection.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 8,
+    "question": "Explain the concept of wave-particle duality.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 9,
+    "question": "Define Hooke's Law.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 10,
+    "question": "What is the difference between series and parallel circuits?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 11,
+    "question": "Describe the concept of inertia.",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 12,
+    "question": "Explain the working principle of a transformer.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 13,
+    "question": "What is the formula for gravitational force?",
+    "subject": "Physics",
+    "topic": "Gravity",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 14,
+    "question": "Define the concept of nuclear fusion.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 15,
+    "question": "Explain the concept of refraction.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 16,
+    "question": "State the second law of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 17,
+    "question": "What are the differences between conduction, convection, and radiation?",
+    "subject": "Physics",
+    "topic": "Heat Transfer",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 18,
+    "question": "Explain the concept of capacitance.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 19,
+    "question": "What is the formula for calculating work done?",
+    "subject": "Physics",
+    "topic": "Energy and Motion",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 20,
+    "question": "Define the concept of half-life in radioactive decay.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 21,
+    "question": "Describe the Doppler effect.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 22,
+    "question": "Explain the principle of conservation of momentum.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 23,
+    "question": "What is the formula for calculating electrical power?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 24,
+    "question": "Define the concept of wave interference.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 25,
+    "question": "Explain the concept of quantum tunneling.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 26,
+    "question": "State the laws of planetary motion.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 27,
+    "question": "What is the formula for calculating pressure?",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 28,
+    "question": "Explain the concept of specific heat capacity.",
+    "subject": "Physics",
+    "topic": "Heat Transfer",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 29,
+    "question": "Define the concept of wave amplitude.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 30,
+    "question": "Describe the concept of magnetic field lines.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 31,
+    "question": "Explain the principle of conservation of energy.",
+    "subject": "Physics",
+    "topic": "Energy and Motion",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 32,
+    "question": "What is the formula for calculating electric potential energy?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 33,
+    "question": "Define the concept of blackbody radiation.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 34,
+    "question": "Explain the concept of angular momentum.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 35,
+    "question": "Describe the concept of wave frequency.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 36,
+    "question": "State the laws of electromagnetic induction.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 37,
+    "question": "What is the formula for calculating centripetal force?",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 38,
+    "question": "Define the concept of potential difference.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 39,
+    "question": "Explain the concept of the uncertainty principle.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 40,
+    "question": "Describe the concept of buoyancy.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 41,
+    "question": "What is the formula for calculating angular velocity?",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 42,
+    "question": "Define the concept of magnetic flux.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 43,
+    "question": "Explain the concept of wave polarization.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 44,
+    "question": "State the laws of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 45,
+    "question": "What is the formula for calculating electric current?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 46,
+    "question": "Define the concept of escape velocity.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 47,
+    "question": "Explain the concept of nuclear fission.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 48,
+    "question": "Describe the concept of simple harmonic motion.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 49,
+    "question": "What is the formula for calculating potential energy?",
+    "subject": "Physics",
+    "topic": "Energy and Motion",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 50,
+    "question": "Define the concept of magnetic susceptibility.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 51,
+    "question": "What is the value of (pi) correct to two decimal places?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 52,
+    "question": "Solve for x: 3x + 7 = 22",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 53,
+    "question": "What is the area of a triangle with base 5 units and height 8 units?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 54,
+    "question": "If a square has a side length of 6 cm, what is its perimeter?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 55,
+    "question": "Evaluate: 2^5 / 4 + 3",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 56,
+    "question": "Simplify: 3(x + 4) - 2x",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 57,
+    "question": "What is the value of square root of 144?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 58,
+    "question": "Find the missing angle in a triangle where two angles are 45 degress and 75 degrees.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 59,
+    "question": "Solve for y: 2y - 5 = 13",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 60,
+    "question": "What is the circumference of a circle with a diameter of 10 meters?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 61,
+    "question": "If a box contains 24 marbles and you take out 5, how many are left?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 62,
+    "question": "Simplify: 7 + 3 * (5 - 2)",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 63,
+    "question": "What is the volume of a cube with side length 4 units?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 64,
+    "question": "Find the value of 4^2 - 3^3",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 65,
+    "question": "Solve for x: 2x/3 = 8",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 66,
+    "question": "What is the value of 8! (factorial)?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 67,
+    "question": "If the ratio of boys to girls in a class is 3:5 and there are 24 students, how many girls are there?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 68,
+    "question": "What is the sum of angles in a quadrilateral?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 69,
+    "question": "Evaluate: 2 + 3 * 4 - 5",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 70,
+    "question": "If the slope of a line is 2 and it passes through point (3,5), find its equation in point-slope form.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 71,
+    "question": "Calculate the area of a circle with radius 6 cm.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 72,
+    "question": "Solve the equation: 2x^2 - 5x + 2 = 0",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 73,
+    "question": "What is the value of log2(16)?",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 74,
+    "question": "Find the midpoint between points (4, 7) and (1, 9)",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 75,
+    "question": "What is the sum of the first 20 natural numbers?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 76,
+    "question": "Simplify: (75)^(1/2) + (48)^(1/2) ",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 77,
+    "question": "Calculate the surface area of a cylinder with height 10 cm and radius 4 cm.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 78,
+    "question": "If f(x) = 3x2 - 5x + 2, find f(4)",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 79,
+    "question": "What is the probability of rolling a prime number on a fair six-sided die?",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 80,
+    "question": "Solve for x: log3(x) = 2",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 81,
+    "question": "If sin(theta) = 0.6, find cos(theta)",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 82,
+    "question": "Calculate the perimeter of a right-angled triangle with legs 5 cm and 12 cm.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 83,
+    "question": "What is the sum of the angles in a hexagon?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 84,
+    "question": "Simplify: (2x^2 - 3x + 5)(x^2 + 2x - 4)",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 85,
+    "question": "Find the area bounded by the curve y = x^2 - 4x + 4 and the x-axis.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 86,
+    "question": "What is the value of tan(45 degrees)?",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 87,
+    "question": "If a train travels at 60 mph, how far will it travel in 2.5 hours?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 88,
+    "question": "Solve the equation: 2^(x+3) = 64",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 89,
+    "question": "Calculate the derivative of f(x) = 3x^3 + 2x^2 - 5x + 7",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 90,
+    "question": "What is the value of the infinite series: 1/2 + 1/4 + 1/8 + ... ?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 91,
+    "question": "Find the roots of the equation: x^3 - 4x^2 + 4x - 1 = 0",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 92,
+    "question": "If a polygon has 12 sides, what is the sum of its interior angles?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 93,
+    "question": "Evaluate: Integration (3x^2 + 4x - 2)dx from x=1 to x=3",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 94,
+    "question": "Solve the differential equation: dy/dx = 2x^2 + 3x - 1",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 95,
+    "question": "If log3(x) = 4, find x",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 96,
+    "question": "What is the value of sin(60 degrees) * cos(30 degrees)?",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 97,
+    "question": "If a car depreciates by 15% each year, what will be its value after 5 years if it is initially worth $20,000?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 98,
+    "question": "Solve the system of equations: 2x + 3y = 10 and 4x - y = 5",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 99,
+    "question": "Calculate the limit: lim(x->2) (x^2 - 4) / (x - 2)",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 100,
+    "question": "What is the value of e^(ln(5))?",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 101,
+    "question": "What is the unit of electrical resistance?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 102,
+    "question": "Define Newton's First Law of Motion.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 103,
+    "question": "Explain the concept of refraction of light.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 104,
+    "question": "What is the formula for kinetic energy?",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 105,
+    "question": "Describe the process of nuclear fission.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 106,
+    "question": "What is the law of conservation of energy?",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 107,
+    "question": "Define Ohm's Law.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 108,
+    "question": "Explain the concept of centripetal force.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 109,
+    "question": "What are the three laws of thermodynamics?",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 110,
+    "question": "Define magnetic field and its properties.",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 112,
+    "question": "What is the difference between velocity and speed?",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 113,
+    "question": "Discuss the laws of reflection of light.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 114,
+    "question": "Define the principle of conservation of momentum.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 116,
+    "question": "Explain the concept of entropy.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 117,
+    "question": "Describe the process of electromagnetic induction.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 119,
+    "question": "Explain the concept of wave interference.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 120,
+    "question": "Define the concept of quantum entanglement.",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 121,
+    "question": "What is the difference between elastic and inelastic collisions?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 122,
+    "question": "Explain the concept of wave amplitude.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 123,
+    "question": "Discuss the concept of the photoelectric effect.",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 125,
+    "question": "Explain the difference between conduction and convection.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 126,
+    "question": "Discuss the concept of magnetic flux.",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 128,
+    "question": "Explain the concept of interference in sound waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 130,
+    "question": "Explain the concept of electric potential.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 131,
+    "question": "What is the difference between a vector and a scalar quantity?",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 132,
+    "question": "Discuss the concept of resonance.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 133,
+    "question": "Define the concept of thermal expansion.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 134,
+    "question": "Explain the concept of magnetic hysteresis.",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 135,
+    "question": "What is the formula for calculating the frequency of a wave?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 136,
+    "question": "Discuss the concept of blackbody radiation.",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 137,
+    "question": "Define Pascal's Law.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 138,
+    "question": "Explain the concept of electromagnetic waves.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 139,
+    "question": "What is the difference between nuclear fusion and fission?",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 140,
+    "question": "Discuss the concept of specific heat capacity.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 141,
+    "question": "Define the concept of induced current.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 144,
+    "question": "Discuss the concept of diffraction of light.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 145,
+    "question": "Define the concept of wave speed.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 146,
+    "question": "Explain the concept of wave-particle complementarity.",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 147,
+    "question": "Discuss the concept of torque.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 148,
+    "question": "What is the difference between static and kinetic friction?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 150,
+    "question": "Explain the concept of work-energy theorem.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 151,
+    "question": "Define the concept of wave amplitude.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 152,
+    "question": "Explain the concept of wave frequency.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 153,
+    "question": "Describe the process of wave reflection.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 154,
+    "question": "Discuss the concept of wave interference.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 155,
+    "question": "Explain the phenomenon of diffraction in waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 156,
+    "question": "Define the concept of wave velocity.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 157,
+    "question": "Discuss the principles of standing waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 158,
+    "question": "Explain the concept of phase difference in waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 159,
+    "question": "Describe the process of wave refraction.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 160,
+    "question": "Discuss the concept of standing wave nodes and antinodes.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 161,
+    "question": "Define the concept of wave period.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "qid": 162,
+    "question": "Explain the relationship between wavelength and wave speed.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 163,
+    "question": "Discuss the concept of standing wave harmonics.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "qid": 164,
+    "question": "Describe the process of wave polarization.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 165,
+    "question": "Explain the concept of wave superposition.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 166,
+    "question": "Discuss the concept of wavefronts.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 167,
+    "question": "Explain the process of standing wave formation.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "qid": 168,
+    "question": "Define the concept of wave energy.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "qid": 169,
+    "question": "Discuss the concept of wave dispersion.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "qid": 170,
+    "question": "Explain the phenomenon of beats in waves.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  }
+]
