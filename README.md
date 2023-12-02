@@ -1,4 +1,4 @@
-# Reelo Assignment - Question Paper Generator
+# Question Paper Generator
 
 ## About this application
 
