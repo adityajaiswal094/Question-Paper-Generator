@@ -9,10 +9,23 @@ This Node.js application is a question paper generator which generates a questio
 - What proportion of marks distributed among the 3 difficulty levels
 - What proportion of marks a particular topic should contain
 
+## Pre-requisites
+
+1. Download, install and setup postgres v13.11 and pgAdmin4 in your local system.
+2. Make sure to note down the passwords you enter during the setup.
+3. After setting up postgres, open command prompt and enter the following command `psql -U postgres -d postgres`.
+4. Now create a new database and a new table for storing all questions and other related info. Enter the queries and commands in the `database.sql` file in database directory as it is.
+
 ## Getting Started
 
 1. Fork this repository and clone it into your local system.
-2. Open it in your IDE.
+2. Create a `.env` file to store all your database config details
+   - **PORT=4000**
+   - **DB_USER=postgres** (default)
+   - **DB_HOST=localhost** (default)
+   - **DB_PORT=5432** (default)
+   - **DB_DATABASE=userposts**
+   - **DB_PASSWORD=(whatever password you provided while setting up the database in pgAdmin)**
 3. Open the terminal and run `npm install` to install all the necessary packages.
 4. Run `npm run dev` to start the application.
 
